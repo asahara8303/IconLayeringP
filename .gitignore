@@ -1,0 +1,10 @@
+/Assets/StreamingAssets/
+/Library/
+/Logs/
+/obj/
+/UserSettings/
+/Temp/
+*.csproj
+*.sln
+
+/output/
